@@ -1,0 +1,10 @@
+name: swamis
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - scipy
+  - tqdm
+  - astropy
+  - pandas
+  - ipywidgets
